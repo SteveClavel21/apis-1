@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PrimeraAplicacionWebAPIConMinimalAPI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GSMC20240903")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ffaf15b1164c314ced5a36f7d0b1e1145bef913")]
-[assembly: System.Reflection.AssemblyProductAttribute("PrimeraAplicacionWebAPIConMinimalAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PrimeraAplicacionWebAPIConMinimalAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("GSMC20240903")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GSMC20240903")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

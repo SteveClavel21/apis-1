@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeraAplicacionWebAPIConMinimalAPI")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ffaf15b1164c314ced5a36f7d0b1e1145bef913")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeraAplicacionWebAPIConMinimalAPI")]

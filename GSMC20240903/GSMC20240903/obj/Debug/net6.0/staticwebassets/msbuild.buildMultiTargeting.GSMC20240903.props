@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GSMC20240903.props" />
+</Project>
